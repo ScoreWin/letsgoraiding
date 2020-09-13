@@ -22,52 +22,37 @@
 🌎 **[PVE] Co-op Vs AI:** Players form a raid party with a friend and face off against pre-constructed decks piloted by an AI.  
 
 ## Gameplay Loop
-- Start of turn:
-  - Channeled abilities resolve.
-  - Power is generated towards charging Ultimates.
-  - Life/Energy regeneration occurs.
-  - Abilities are drawn. (Default is 2)
-  - Cooldowns progress.
-    - Any abilities coming off cooldown are **Surfaced**.
-  - Status effects progress.
-- Main phase:
-  - 1 Ability per hero may be played.
-    - Abilities with **Combo** do not count towards this limit.
-    - Abilities can be played in any order.
-- End of turn:
-  - Abilities that remain in hand are **Burried**.
-  - Status effects progress.
+🔸 Start of turn:  
+🔹 Channeled abilities resolve.  
+🔹 Regeneration occurs. (Default is 2 Energy and 1 Power)  
+🔹 Abilities are drawn. (Default is 2)  
+🔹 Cooldowns progress. (Abilities coming off cooldown are **Surfaced**)  
 
-Each match starts with heroes at full **Life** and **Energy**. Heroes restore a small amount of **Life** and/or **Energy** at the start of turn. Managing these resources is crucial towards success. Greedy deck compositions risk going OOM while waiting to regenerate.
+🔸 Main phase:  
+🔹 Each hero may play 1 Ability in any order.  (**Combo** abilities do not count towards this limit)  
+
+🔸 End of turn:  
+🔹 Abilities are discarded.  
 
 ## Threat
 LGR supports a simple positioning system that is a metaphor for threat.
 When a hero plays an ability, threat is generated.
-- **Aggressive** abilities move the hero forward.
-- **Defensive** abilities move the hero backward.
-- An ability that is neither Aggressive nor Defensive, does not move the hero.
+- **High Threat** abilities move the hero forward.
+- **Low Threat** abilities move the hero backward.
+- **Neutral Threat** abilities do not move the hero.
+- **Invert Threat** abilities move the hero to the opposite position.
 
 Enemies can only target heroes that are in front of other heroes. This gives opportunity to manage threat and have tanks absorb incoming abilities for squishy backliners.
 
-If two heroes are already **Aggressive** and one use another **Aggressive** ability, then they not have more threat and will move in front of the party.
+If two heroes share the same threat, then the hero that generated threat next will move forward -- pushing the other to the low threat position.
 
-The positioning system also has a spacial element to it. For example, an ability Knockback will push the affected hero backward, effectively giving access otherwise untargetable heroes.
-
-**Stealth** and **Reach** and **Area** abilities are further ways of accessing the backline.
+**Knockback**, **Stealth**, and **Reach** are further ways of accessing the backline.
 
 ## Cooldowns
-Heroes draw 2 abilities per turn. Whenever they play an ability, it goes on cooldown. The cooldown represents the number of turns that must pass before the ability is placed back on top of your deck. Because it is place on top of your deck, players can progressively stack their rotations throughout the course of a game.
-
-If an ability has a cooldown of 4. After playing it, the player will notice it is added to the timeline. Each turn, the cooldown will tick. On the 4th turn, it will be on top of the deck. On the 5th turn, generally it be drawn.
-
-An exception to this rule is if multiple abilities come off of cooldown at the same time. When this happens, they are added to deck in the order that they were played.
+Heroes draw 2 abilities per turn. Abilities go on cooldown when they are played. The cooldown represents the number of turns that must pass before the ability is placed back on top of your deck. Players can progressively stack their rotations throughout the course of a game. These cooldowns are visible to all players, so it is possible to plan for when an enemy hero will draw an ability that has already been played.
 
 ## Ultimates
-Ultimates are powerful, unique abilities that define your playstyle. Heroes **Empower** their ultimates by 1 each turn and whenever playing an ability with **Empower**. Ultimates become available when the hero is fully **Empowered**.
-
-When an ultimate is played, they must recharge it before it is available again.
+Ultimates are powerful, unique abilities that define a hero's playstyle. Heroes generate **1 Power** each turn. Power is typically required as a resource for playing and activating ultimates.
 
 ## Reserve
-At the end of each turn, any abilities remaining are discarded to the bottom of their hero's deck. However, hero's can reserve an ability for a future turn by either right-clicking the ability or left-clicking once and then clicking the "Reserve" action that appears.
-
-To access a reserved ability, simply reserve a different one.
+At the end of each turn, heroes discard their hand to the bottom of their deck. However, hero's can reserve an ability for a future turn by either right-clicking the ability. To access an already reserved ability, simply reserve a different one.
