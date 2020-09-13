@@ -1,12 +1,11 @@
 # Let's Go Raiding!
-[![Discord Shield](https://img.shields.io/discord/408094898399608845?style=flat&colorA=000000&colorB=000000&label=discord&logo=discord&logoColor=ffffff)](https://discord.gg/UzKqYSW)
+
+[![Windows](https://img.shields.io/badge/download-brightgreen.svg?style=plastic&colorA=000000&label=windows&logo=windows&logoColor=ffffff)](https://lgr.gg/setup)
+[![Mac](https://img.shields.io/badge/download-brightgreen.svg?style=plastic&colorA=000000&label=mac&logo=apple&logoColor=ffffff)](https://lgr.gg/setup-mac)
+[![Linux](https://img.shields.io/badge/download-brightgreen.svg?style=plastic&colorA=000000&label=linux&logo=linux&logoColor=ffffff)](https://lgr.gg/setup-linux)
+[![Discord](https://img.shields.io/discord/408094898399608845?style=plastic&colorA=000000&colorB=000000&label=discord&logo=discord&logoColor=ffffff)](https://discord.gg/UzKqYSW)
 
 > **Let's Go Raiding!** brings classic mmorpg tactics to the digital card genre. Limited variance and deep strategy put skillful play front-and-center. You will NOT see the word "random" printed on any card in this game.
-
-## Installation
-🖥️ **Windows:** [https://lgr.gg/setup](https://lgr.gg/setup)  
-🍎 **Mac:** [https://lgr.gg/setup-mac](https://lgr.gg/setup-mac)  
-🐧 **Linux:** [https://lgr.gg/setup-linux](https://lgr.gg/setup-linux)  
 
 ## Features
 ⚡ **Progression:** Experience challenging dungeons and epic raids while looting new equipment to enhance your heroes.  
@@ -39,8 +38,8 @@ LGR supports a simple positioning system that is a metaphor for threat.
 When a hero plays an ability, threat is generated.
 - **High Threat** abilities move the hero forward.
 - **Low Threat** abilities move the hero backward.
-- **Neutral Threat** abilities do not move the hero.
 - **Invert Threat** abilities move the hero to the opposite position.
+- **Neutral Threat** abilities do not move the hero.
 
 Enemies can only target heroes that are in front of other heroes. This gives opportunity to manage threat and have tanks absorb incoming abilities for squishy backliners.
 
