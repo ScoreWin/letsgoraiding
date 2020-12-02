@@ -22,7 +22,6 @@
 
 ## Gameplay Loop
 🔸 Start of turn:  
-🔹 Channeled abilities resolve.  
 🔹 Regeneration occurs. (Default is 2 Energy and 1 Power)  
 🔹 Abilities are drawn. (Default is 2)  
 🔹 Cooldowns progress. (Abilities coming off cooldown are **Surfaced**)  
@@ -32,6 +31,8 @@
 
 🔸 End of turn:  
 🔹 Abilities are discarded.  
+🔹 Fatigue occurs.  
+🔹 Enemy Channeled abilities resolve.  
 
 ## Threat
 LGR supports a simple positioning system that is a metaphor for threat.
@@ -55,3 +56,8 @@ Ultimates are powerful, unique abilities that define a hero's playstyle. Heroes 
 
 ## Reserve
 At the end of each turn, heroes discard their hand to the bottom of their deck. However, hero's can reserve an ability for a future turn by either right-clicking the ability. To access an already reserved ability, simply reserve a different one.
+
+## Fatigue
+Beginning at round 10, heroes start taking increasing damage at the start of the round (1, 2, 3, etc). This helps bring the game to a close as well as supports alternate win conditions from control-style decks.
+
+## [Glossary](GLOSSARY.md)
