@@ -8,14 +8,14 @@
 | Ultimate        | Limit 1. Can be played as if it were in hand for a powerful effect.         |       |
 | Channel         | The hero gains **Channeling** when playing this ability.                    |       |
 | Combo           | Does not count towards the hero's ability limit this turn.                  |       |
+| Fleeting        | Remove from the game at the end of turn.                                    |       |
 | Innate          | **Surface** this ability at the start of battle.                            |       |
 | Opener          | Must be the first ability played for the hero's party.                      |       |
 | Pierce          | Ignores **Defense** and **Protected**.                                      |       |
+| Quick           | Draw this ability whenever it comes off cooldown.                           |       |
 | Reach           | Can target low threat enemies.                                              |       |
 | Repeat          | Can be played an additional time this turn.                                 |       |
-| Fleeting        | Remove from the game at the end of turn.                                    |       |
 | Stealth         | The hero gains **Stealthed** when playing this ability.                     |       |
-| Quick           | Draw this ability whenever it comes off cooldown.                           |       |
 | Song of Harmony | Start playing `[Song of Harmony]`                                           | Bard  |
 | Song of Vigor   | Start playing `[Song of Vigor]`                                             | Bard  |
 | Song of War     | Start playing `[Song of War]`                                               | Bard  |
@@ -62,8 +62,8 @@
 | :-------- | :----------------------------------------------------------------------------------- |
 | Bury      | Move an ability to the bottom of its hero's deck.                                    |
 | Disrupt   | **Interrupt** affected hero's and end their active enchantments or songs.            |
-| Interrupt | Causes **Channeled** abilities to be returned to the top their affected hero's deck. |
 | Hide      | Hide an ability until it is Revealed.                                                |
+| Interrupt | Causes **Channeled** abilities to be returned to the top their affected hero's deck. |
 | Knockback | **Interrupt** affected hero's and `(Decrease Threat)`.                               |
 | Lifesteal | **Damage** inflicted also restores **Life**.                                         |
 | Reveal    | Reveal an ability for the rest of the game.                                          |
