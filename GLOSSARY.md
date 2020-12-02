@@ -58,15 +58,16 @@
 | Owl                           | +1 Energy Regen. Base Damage/Defense becomes 0.                                                                                                                      | Druid |
 
 ## Effects
-| Name      | Description                                                                                                             |
-| :-------- | :---------------------------------------------------------------------------------------------------------------------- |
-| Bury      | Move an ability to the bottom of its hero's deck.                                                                       |
-| Disrupt   | Causes **Channeled** abilities to be returned to the top their affected hero's deck and ends their active enchantments. |
-| Hide      | Hide an ability until it is Revealed.                                                                                   |
-| Knockback | **Disrupt** affected hero's **Channeled** abilities and `(Decrease Threat)`.                                            |
-| Lifesteal | **Damage** inflicted also restores **Life**.                                                                            |
-| Reveal    | Reveal an ability for the rest of the game.                                                                             |
-| Surface   | Move an ability to the top of its hero's deck.                                                                          |
+| Name      | Description                                                                          |
+| :-------- | :----------------------------------------------------------------------------------- |
+| Bury      | Move an ability to the bottom of its hero's deck.                                    |
+| Disrupt   | **Interrupt** affected hero's and end their active enchantments or songs.            |
+| Interrupt | Causes **Channeled** abilities to be returned to the top their affected hero's deck. |
+| Hide      | Hide an ability until it is Revealed.                                                |
+| Knockback | **Interrupt** affected hero's and `(Decrease Threat)`.                               |
+| Lifesteal | **Damage** inflicted also restores **Life**.                                         |
+| Reveal    | Reveal an ability for the rest of the game.                                          |
+| Surface   | Move an ability to the top of its hero's deck.                                       |
 
 ## Terms
 | Name                | Description                                                                                                    |
