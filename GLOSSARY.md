@@ -25,37 +25,37 @@
 | Owl             | Transforms the hero into a `[Owl]`.                                         | Druid |
 
 ## Status Effects
-| Name                          | Description                                                                                                                                                          | Note  |
-| :---------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---- |
-| `[Ability Name]` (Channeling) | `[Ability Name]` will process at the start of next turn. Cannot play additional abilities this turn. Right-click to cancel.                                          |       |
-| Bleeding                      | Lose `[Bleeding Intensity]` Life at the start of turn and decrease `(Bleeding)` durations by 1. Lose **1 Life** for every **2** `(Bleeding)` when playing an attack. |       |
-| Burning                       | Lose `[Burning Intensity]` Life at the start of turn and decrease Burning durations by 1.                                                                            |       |
-| Confused                      | Abilities played have `(Invert Threat)`.                                                                                                                             |       |
-| Dazed                         | The next ability costs 1 Energy to Reserve.                                                                                                                          |       |
-| Enraged                       | +`[Enraged Intensity]` `(Damage)`, -`[Enraged Intensity]` `(Defense)`. Attacks played while **3** `(Enraged)` have `(Increase Threat)`.                              |       |
-| Evasive                       | The incoming effects of the next enemy attack are prevented. `(Invert Threat)` the hero.                                                                             |       |
-| Guarded                       | The incoming effects of the next enemy ability are redirected to the `[Guarded Source]` instead.                                                                     |       |
-| Flying                        | Cannot be targeted by enemy abilities without **Reach**.                                                                                                             |       |
-| Frozen                        | Cannot draw, upkeep, or play abilities. Cannot progress cooldowns.                                                                                                   |       |
-| Hastened                      | Draw **1** additional ability at the start of turn.                                                                                                                  |       |
-| Immortal                      | If the hero would die, Life becomes 1 instead.                                                                                                                       |       |
-| Invulnerable                  | Cannot lose Life.                                                                                                                                                    |       |
-| Protected                     | The incoming effects of the next Enemy ability are prevented.                                                                                                        |       |
-| Poisoned                      | Lose `[Poisoned Intensity]` Life and gain `[Poisoned Intensity]` **Corruption** at the start of turn and decrease Poisoned durations by 1.                           |       |
-| Reflective                    | The incoming effects of the next enemy ability are redirected back to the enemy instead.                                                                             |       |
-| Rooted                        | Abilities played have no threat.                                                                                                                                     |       |
-| Shield                        | Prevents the next `[Shield Intensity]` Life loss.                                                                                                                    |       |
-| Slowed                        | Draw **1** less ability at the start of turn.                                                                                                                        |       |
-| Stunned                       | Cannot upkeep or play abilities. Draw `Seek Aid` or `Fight On` at the start of turn.                                                                                 |       |
-| Stealthed                     | Cannot be targeted by enemies. Abilities are played as if they had **Reach**. Playing an attack or losing **Life** from an ability removes **Stealthed**.            |       |
-| Taunted                       | `[Taunted Source]` is the only enemy that can be targeted.                                                                                                           |       |
-| Tenacious                     | Cannot be affected by incoming **Hard Crowd Control** effects.                                                                                                       |       |
-| Song of Harmony               | Party: +1 Life Regen. (Finale: +5 Life.)                                                                                                                             | Bard  |
-| Song of Vigor                 | Party: +1 Damage. (Finale: +2 Energy.)                                                                                                                               | Bard  |
-| Song of War                   | Party:Surface 1 Attack. (Finale: Draw 1 Attack)                                                                                                                      | Bard  |
-| Bear                          | +1 Defense                                                                                                                                                           | Druid |
-| Wolf                          | +1 Damage                                                                                                                                                            | Druid |
-| Owl                           | +1 Energy Regen. Base Damage/Defense becomes 0.                                                                                                                      | Druid |
+| Name                          | Description                                                                                                                                                          | Note      |
+| :---------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| `[Ability Name]` (Channeling) | `[Ability Name]` will process at the start of next turn. Cannot play additional abilities this turn. Right-click to cancel.                                          |           |
+| Bleeding                      | Lose `[Bleeding Intensity]` Life at the start of turn and decrease `(Bleeding)` durations by 1. Lose **1 Life** for every **2** `(Bleeding)` when playing an attack. |           |
+| Burning                       | Lose `[Burning Intensity]` Life at the start of turn and decrease Burning durations by 1.                                                                            |           |
+| Confused                      | Abilities played have `(Invert Threat)`.                                                                                                                             |           |
+| Dazed                         | The next ability costs 1 Energy to Reserve.                                                                                                                          |           |
+| Evasive                       | The incoming effects of the next enemy attack are prevented. `(Invert Threat)` the hero.                                                                             |           |
+| Guarded                       | The incoming effects of the next enemy ability are redirected to the `[Guarded Source]` instead.                                                                     |           |
+| Flying                        | Cannot be targeted by enemy abilities without **Reach**.                                                                                                             |           |
+| Frozen                        | Cannot draw, upkeep, or play abilities. Cannot progress cooldowns.                                                                                                   |           |
+| Hastened                      | Draw **1** additional ability at the start of turn.                                                                                                                  |           |
+| Immortal                      | If the hero would die, Life becomes 1 instead.                                                                                                                       |           |
+| Invulnerable                  | Cannot lose Life.                                                                                                                                                    |           |
+| Protected                     | The incoming effects of the next Enemy ability are prevented.                                                                                                        |           |
+| Poisoned                      | Lose `[Poisoned Intensity]` Life and gain `[Poisoned Intensity]` **Corruption** at the start of turn and decrease Poisoned durations by 1.                           |           |
+| Reflective                    | The incoming effects of the next enemy ability are redirected back to the enemy instead.                                                                             |           |
+| Rooted                        | Abilities played have no threat.                                                                                                                                     |           |
+| Shield                        | Prevents the next `[Shield Intensity]` Life loss.                                                                                                                    |           |
+| Slowed                        | Draw **1** less ability at the start of turn.                                                                                                                        |           |
+| Stunned                       | Cannot upkeep or play abilities. Draw `Seek Aid` or `Fight On` at the start of turn.                                                                                 |           |
+| Stealthed                     | Cannot be targeted by enemies. Abilities are played as if they had **Reach**. Playing an attack or losing **Life** from an ability removes **Stealthed**.            |           |
+| Taunted                       | `[Taunted Source]` is the only enemy that can be targeted.                                                                                                           |           |
+| Tenacious                     | Cannot be affected by incoming **Hard Crowd Control** effects.                                                                                                       |           |
+| Rage                          | +1 Rage for every 25% Life missing. +1 Damage and +1 Life Regen for each Rage. +[Tenacious] at Max Rage (3).                                                         | Berserker |
+| Song of Harmony               | Party: +1 Life Regen. (Finale: +5 Life.)                                                                                                                             | Bard      |
+| Song of Vigor                 | Party: +1 Damage. (Finale: +2 Energy.)                                                                                                                               | Bard      |
+| Song of War                   | Party:Surface 1 Attack. (Finale: Draw 1 Attack)                                                                                                                      | Bard      |
+| Bear                          | +1 Defense                                                                                                                                                           | Druid     |
+| Wolf                          | +1 Damage                                                                                                                                                            | Druid     |
+| Owl                           | +1 Energy Regen. Base Damage/Defense becomes 0.                                                                                                                      | Druid     |
 
 ## Effects
 | Name      | Description                                                                          |
@@ -73,4 +73,4 @@
 | Name                | Description                                                                                                    |
 | :------------------ | :------------------------------------------------------------------------------------------------------------- |
 | Crowd Control       | **Freeze**, **Stun**, **Knockback**, **Disrupt**, **Slowed**, **Dazed**, **Rooted**, **Taunted**, **Confused** |
-| Hard Crowd Control* | **Freeze**, **Stun**, **Knockback**, **Disrupt**                                                               |
+| Hard Crowd Control* | **Freeze**, **Stun**, **Knockback**, **Disrupt**, **Interrupt**                                                |

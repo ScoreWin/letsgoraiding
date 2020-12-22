@@ -5,7 +5,7 @@
 [![Linux](https://img.shields.io/badge/download-brightgreen.svg?style=plastic&colorA=000000&label=linux&logo=linux&logoColor=ffffff)](https://lgr.gg/setup-linux)
 [![Discord](https://img.shields.io/discord/408094898399608845?style=plastic&colorA=000000&colorB=000000&label=discord&logo=discord&logoColor=ffffff)](https://discord.gg/UzKqYSW)
 
-> **Let's Go Raiding!** brings classic mmorpg tactics to the digital card genre. Limited variance and deep strategy put skillful play front-and-center. You will NOT see the word "random" printed on any card in this game.
+> **Let's Go Raiding!** brings classic mmorpg tactics to the digital card genre. Limited variance and deep strategy put skillful play front-and-center.
 
 ## Features
 ⚡ **Progression:** Experience challenging dungeons and epic raids while looting new equipment to enhance your heroes.  
