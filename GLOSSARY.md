@@ -52,7 +52,7 @@
 | Rage                          | +1 Rage for every 25% Life missing. +1 Damage and +1 Life Regen for each Rage. +[Tenacious] at Max Rage (3).                                                         | Berserker |
 | Song of Harmony               | Party: +1 Life Regen. (Finale: +5 Life.)                                                                                                                             | Bard      |
 | Song of Vigor                 | Party: +1 Damage. (Finale: +2 Energy.)                                                                                                                               | Bard      |
-| Song of War                   | Party:Surface 1 Attack. (Finale: Draw 1 Attack)                                                                                                                      | Bard      |
+| Song of War                   | Party: Surface 1 Attack. (Finale: Draw 1 Attack)                                                                                                                     | Bard      |
 | Bear                          | +1 Defense                                                                                                                                                           | Druid     |
 | Wolf                          | +1 Damage                                                                                                                                                            | Druid     |
 | Owl                           | +1 Energy Regen. Base Damage/Defense becomes 0.                                                                                                                      | Druid     |
