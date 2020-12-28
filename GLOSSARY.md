@@ -11,7 +11,7 @@
 | Fleeting        | Remove from the game at the end of turn.                                    |       |
 | Innate          | **Surface** this ability at the start of battle.                            |       |
 | Opener          | Must be the first ability played for the hero's party.                      |       |
-| Pierce          | Ignores **Defense** and **Protected**.                                      |       |
+| Pierce          | Ignores **Defense**, **Shields**, and **Protect**.                          |       |
 | Quick           | Draw this ability whenever it comes off cooldown.                           |       |
 | Reach           | Can target low threat enemies.                                              |       |
 | Repeat          | Can be played an additional time this turn.                                 |       |
