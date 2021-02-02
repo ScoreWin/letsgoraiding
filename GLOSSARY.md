@@ -11,7 +11,7 @@
 | Fleeting        | Remove from the game at the end of turn.                                    |       |
 | Innate          | **Surface** this ability at the start of battle.                            |       |
 | Opener          | Must be the first ability played for the hero's party.                      |       |
-| Pierce          | Ignores **Defense**, **Shields**, and **Protect**.                          |       |
+| Pierce          | Ignores **Defense** and **Protected**.                                      |       |
 | Quick           | Draw this ability whenever it comes off cooldown.                           |       |
 | Reach           | Can target low threat enemies.                                              |       |
 | Repeat          | Can be played an additional time this turn.                                 |       |
@@ -58,16 +58,16 @@
 | Owl                           | +1 Energy Regen. Base Damage/Defense becomes 0.                                                                                                                      | Druid     |
 
 ## Effects
-| Name      | Description                                                                          |
-| :-------- | :----------------------------------------------------------------------------------- |
-| Bury      | Move an ability to the bottom of its hero's deck.                                    |
-| Disrupt   | **Interrupt** affected hero's and end their active enchantments or songs.            |
-| Hide      | Hide an ability until it is Revealed.                                                |
-| Interrupt | Causes **Channeled** abilities to be returned to the top their affected hero's deck. |
-| Knockback | **Interrupt** affected hero's and `(Decrease Threat)`.                               |
-| Lifesteal | **Damage** inflicted also restores **Life**.                                         |
-| Reveal    | Reveal an ability for the rest of the game.                                          |
-| Surface   | Move an ability to the top of its hero's deck.                                       |
+| Name      | Description                                                               |
+| :-------- | :------------------------------------------------------------------------ |
+| Bury      | Move an ability to the bottom of its hero's deck.                         |
+| Disrupt   | **Interrupt** affected heroes and end their active enchantments or songs. |
+| Hide      | Hide an ability until it is **Revealed**.                                 |
+| Interrupt | Causes **Channeled** abilities to be returned to its hero's hand.         |
+| Knockback | **Interrupt** affected hero's and `(Decrease Threat)`.                    |
+| Lifesteal | **Damage** inflicted also restores **Life**.                              |
+| Reveal    | Reveal an ability for the rest of the game.                               |
+| Surface   | Move an ability to the top of its hero's deck.                            |
 
 ## Terms
 | Name                | Description                                                                                                    |

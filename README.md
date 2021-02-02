@@ -52,7 +52,7 @@ If two heroes share the same threat, then the hero that generated threat next wi
 Heroes draw 2 abilities per turn. Abilities go on cooldown when they are played. The cooldown represents the number of turns that must pass before the ability is placed back on top of your deck. Players can progressively stack their rotations throughout the course of a game. These cooldowns are visible to all players, so it is possible to plan for when an enemy hero will draw an ability that has already been played.
 
 ## Ultimates
-Ultimates are powerful, unique abilities that define a hero's playstyle. Heroes generate **1 Power** each turn. Power is typically required as a resource for playing and activating ultimates.
+Ultimates are powerful, unique abilities that define a hero's playstyle. Heroes generate **1 Power** each turn which is used for playing ultimates and other powerful abilities.
 
 ## Reserve
 At the end of each turn, heroes discard their hand to the bottom of their deck. However, hero's can reserve an ability for a future turn by either right-clicking the ability. To access an already reserved ability, simply reserve a different one.
